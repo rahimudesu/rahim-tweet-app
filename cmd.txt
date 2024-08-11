@@ -1,0 +1,2 @@
+ sail npm install
+sail npm run dev
